@@ -1,0 +1,15 @@
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\bin\Debug\net7.0\ExercicioLogica2.exe
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\bin\Debug\net7.0\ExercicioLogica2.deps.json
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\bin\Debug\net7.0\ExercicioLogica2.runtimeconfig.json
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\bin\Debug\net7.0\ExercicioLogica2.dll
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\bin\Debug\net7.0\ExercicioLogica2.pdb
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.csproj.AssemblyReference.cache
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.AssemblyInfoInputs.cache
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.AssemblyInfo.cs
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.dll
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\refint\ExercicioLogica2.dll
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.pdb
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ExercicioLogica2.genruntimeconfig.cache
+C:\temp\Projetos\ExercicioLogica2\ExercicioLogica2\obj\Debug\net7.0\ref\ExercicioLogica2.dll
