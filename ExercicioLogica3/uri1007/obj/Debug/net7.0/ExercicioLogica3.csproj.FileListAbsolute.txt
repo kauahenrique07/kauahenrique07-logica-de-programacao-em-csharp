@@ -1,0 +1,15 @@
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\bin\Debug\net7.0\ExercicioLogica3.exe
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\bin\Debug\net7.0\ExercicioLogica3.deps.json
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\bin\Debug\net7.0\ExercicioLogica3.runtimeconfig.json
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\bin\Debug\net7.0\ExercicioLogica3.dll
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\bin\Debug\net7.0\ExercicioLogica3.pdb
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.csproj.AssemblyReference.cache
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.AssemblyInfoInputs.cache
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.AssemblyInfo.cs
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.dll
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\refint\ExercicioLogica3.dll
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.pdb
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ExercicioLogica3.genruntimeconfig.cache
+C:\temp\Projetos\ExercicioLogica3\ExercicioLogica3\obj\Debug\net7.0\ref\ExercicioLogica3.dll
