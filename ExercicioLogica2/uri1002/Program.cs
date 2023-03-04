@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ExercicioLogica2 {
+namespace uri1002 {
     class Program {
         static void Main(string[] args) {
 
